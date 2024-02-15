@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecommerce-athletics/static/css/main.92a2ae7d.css",
+    "main.js": "/ecommerce-athletics/static/js/main.649dbe64.js",
+    "static/js/787.6ebc36be.chunk.js": "/ecommerce-athletics/static/js/787.6ebc36be.chunk.js",
+    "static/media/logo.png": "/ecommerce-athletics/static/media/logo.2f7e2bd93ac124248224.png",
+    "static/media/love.png": "/ecommerce-athletics/static/media/love.e4ffc7816448cc0e4475.png",
+    "index.html": "/ecommerce-athletics/index.html",
+    "main.92a2ae7d.css.map": "/ecommerce-athletics/static/css/main.92a2ae7d.css.map",
+    "main.649dbe64.js.map": "/ecommerce-athletics/static/js/main.649dbe64.js.map",
+    "787.6ebc36be.chunk.js.map": "/ecommerce-athletics/static/js/787.6ebc36be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a2ae7d.css",
+    "static/js/main.649dbe64.js"
+  ]
+}
